@@ -38,7 +38,7 @@ def sym_diff(lst1,lst2):
 cricket = []
 badminton = []
 football = []
-print("---------------------  STUDENT SPORT INFO  ---------------------")
+print("---------------------  STUDENT SPORT INFO  -----------------------")
 n = int(input("\n\nEnter number ofstudents who play cricket : "))
 print("Enter the names of",n,"students who play cricket (Please press ENTER after entering each students name) :")
 for i in range(n):
